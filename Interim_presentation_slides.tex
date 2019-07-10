@@ -38,11 +38,13 @@
 \usepackage{booktabs} % Required for better table rules
 \usepackage{hyperref}
 \usepackage{graphicx,subfigure}
+\usepackage{animate}
+\usepackage{textcomp}
 %----------------------------------------------------------------------------------------
 %	 TITLE SLIDE
 %----------------------------------------------------------------------------------------
 
-\title{Interfacing EMCCD Camera used in Ion Trap experiments with Python}
+\title{Interfacing EMCCD Camera used in Ion Trap experiments}
 
 
 
@@ -81,40 +83,29 @@
 
 
 %------------------------------------------------
-\begin{frame}{Overview}
-
-\begin{itemize}
-\item Iontraps and EMCCD Cameras
-\bigskip
-\item Motivation and Aims of the Project
-\bigskip
-\item Current Progress
-\bigskip
-\item Future plans
-\end{itemize}
-
-\end{frame}
-
-%------------------------------------------------
-\begin{frame}[noframenumbering]
-
-
-Iontraps and EMCCD Cameras
-
-
-
+\begin{frame}
+\frametitle{{Overview}}
+\tableofcontents[]
 \end{frame}
 
 
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
 
 %------------------------------------------------
+\section{Iontraps and EMCCD Cameras}
 \begin{frame}{Ion traps}
-
+\frametitle{}
 \begin{itemize}
-\item An ion trap is a device that is used to levitate small clouds of ions, or  a single atomic ion, in free
+\item Ion trap: e.g. Penning or Paul trap, used to levitate small clouds of ions, or a single atomic ion, in free
 space, inside a vacuum chamber.
 \bigskip
-\item For example a Penning trap confines the motion of the ions through the use of static electric and magnetic fields
+\item Typically lasers used to manipulate the ions and an imaging system to detect the ion's fluorescence
 \end{itemize}
 
 \end{frame}
@@ -123,12 +114,15 @@ space, inside a vacuum chamber.
 \begin{frame}{EMCCD Cameras}
 
 \begin{itemize}
-\item A Charged Coupled Devide (CCD) is a silicon based semiconductor chip  which captures light and converts the photons to digital data in the form of electrons
+\item A Charged Coupled Devide (CCD): silicon based semiconductor chip, captures light, converts the photons to digital data in the form of electrons
 \bigskip
-\item An Electron Multiplying CCD (EMCCD) has an identical structure to conventional CCDs but is more sensitive and capable of single photo detection
+\item Electron Multiplying CCD (EMCCD):  identical structure to conventional CCDs BUT more sensitive and capable of single photo detection (e.g. fluorescence of single ions)
 \bigskip
-\item The shift register in EMCCDs are extended to include the Gain register which significantly improves low light detection
+\item EMCCDs widely used in ion trap experiments
 \end{itemize}
+
+\centering
+\includegraphics[scale=0.38]{Figures/iXon-Ultra-897.png}
 
 \end{frame}
 
@@ -136,61 +130,76 @@ space, inside a vacuum chamber.
 
 \begin{frame}{EMCCD Cameras}
 
+%\begin{itemize}
+%\item Shift register are extended with Gain register => significantly improves low light detection
+%\end{itemize}
+
+
+
+\begin{columns}
+          \column{0.45\linewidth}
+             \centering
+             \includegraphics[width=4.3 cm]{Figures/EMCCD_Structure.PNG}
+           \column{0.62\linewidth}
+              \begin{itemize}
+\item Shift register are extended with Gain register => significantly improves low light detection
+\bigskip
+\item Possible to read out only a part of the detector array
+\end{itemize}
+         \end{columns} 
+
+
+\end{frame}
+
+%------------------------------------------------
+
+\section{My Tasks}
+
+\begin{frame}{My Tasks}
+\frametitle{}
+\begin{itemize}
+\item Write a Python 3 program around existing library to interface out Andor iXon Ultra EMCCD camera
+\bigskip
+\item Commercial software fine for general imaging, written Python program taylored to experimental requirements
+\bigskip
+\item Find a method of distinguishing between a bright and a dark ion
+\bigskip
+\item Find optimal parameter setting to obtain best image in shortest exposure time
+\end{itemize}
+
+
+\end{frame}
+
+%------------------------------------------------
+
+\section{Current Progress}
+\begin{frame}{The Program}
+\frametitle{}
+
+\begin{itemize}
+\item Two separate programs: one to control the EMCCD camera and take pictures of ion(s) and the other to load the images 
+\end{itemize} 
+\vspace{0.3cm}
 \begin{figure}
-\centering
-\includegraphics[scale=0.4]{Figures/EMCCD_Structure.PNG}
+\begin{center}
+\includegraphics[scale=0.3]{Figures/cam_flow_chart.png}\\
+\vspace{0.3cm}
+\includegraphics[scale=0.3]{Figures/img_load_flow_chart.png}
+\end{center}
 \end{figure}
 
-\end{frame}
-
-%------------------------------------------------
-\begin{frame}[noframenumbering]
-
-Motivation and Aims of the Project
-
-
 
 \end{frame}
 
-
-
 %------------------------------------------------
-\begin{frame}{Motivation and Aims}
+\begin{frame}{The Program (cont.)}
 
 \begin{itemize}
-\item Write a program in Python to interface an Andor iXon Ultra EMCCD camera used in ion trap
-experiments.
-\bigskip
-\item Find a method of distinguishing between a bright ion and a dark ion
-\bigskip
-\item Find the setting of the program which takes the best images of the ions
-\end{itemize}
-
-
-\end{frame}
-
-%------------------------------------------------
-\begin{frame}[noframenumbering]
-
-Current Progress
-
-
-
-\end{frame}
-
-
-
-%------------------------------------------------
-
-\begin{frame}{The Program}
-
-\begin{itemize}
-\item Two separate programs were written in Python: one to control the EMCCD camera and take pictures of ion(s) and the other to load the images 
-\bigskip
 \item A Dynamic Link Library (DLL) containing various functions of the camera used by the program to control the camera
 \bigskip
-\item Both programs are object oriented and have its own graphical user interface (GUI) created using QT Creator software
-
+\item Both programs are object oriented and have a graphical user interface (GUI) created using QT Creator software
+\bigskip
+\item UI file from QT Creator converted to python script with pyqt module => do not need to write GUI in Python from scratch!
 \end{itemize}
 
 
@@ -210,11 +219,10 @@ Current Progress
 %------------------------------------------------
 \begin{frame}{Image Loading Program}
 
-\begin{figure}
-\centering
-\includegraphics[scale=0.4]{Figures/pic_load_program.PNG}
-\end{figure}
 
+\begin{center}
+	\animategraphics[width=\textwidth,autoplay,loop]{3}{Figures/pic_load/pl_frame_}{01}{36}
+\end{center}
 
 \end{frame}
 
@@ -233,38 +241,32 @@ Current Progress
 \end{frame}
 
 %------------------------------------------------
-\begin{frame}{ Mean Signal Count vs. Exposure time}
+\begin{frame}{ Exposure Time and EMCCD Gain}
 
 
 \begin{figure}
 \centering     
-\subfigure[Python Program]{\label{fig:a}\includegraphics[width=55mm]{Figures/Noise_Python.png}}
-\subfigure[Commercial Software]{\label{fig:b}\includegraphics[width=55mm]{Figures/Noise_Commercial.png}}
-
-\end{figure}
-
-
-\end{frame}
-
-%------------------------------------------------
-\begin{frame}{ Mean Signal Count vs. EMCCD Gain}
-
-
-\begin{figure}
-\centering
-\renewcommand{\thesubfigure}{(a)}     
-\subfigure[Python Program]{\label{fig:a}\includegraphics[width=55mm]{Figures/Gain_Python.png}}
+\subfigure{\label{fig:a}\includegraphics[scale = 0.24]{Figures/Noise_Python.png}}
+\subfigure{\label{fig:b}\includegraphics[scale = 0.24]{Figures/Noise_Commercial.png}}
+\renewcommand{\thesubfigure}{(a)} 
+\subfigure[Python Program]{\label{fig:c}\includegraphics[scale = 0.24]{Figures/Gain_Python.png}}     
 \renewcommand{\thesubfigure}{(b)}     
-\subfigure[Commercial Software]{\label{fig:b}\includegraphics[width=55mm]{Figures/Gain_Commercial.png}}
-
+\subfigure[Commercial Software]{\label{fig:d}\includegraphics[scale = 0.24]{Figures/Gain_Commercial.png}}
+%\caption{ Mean Signal Count vs. Exposure time comparison between a) Python and b) Commercial software. Mean Signal Count vs. EMCCD Gain comparison between c) Python and d) Commercial software}
 \end{figure}
-
 
 \end{frame}
 
 %------------------------------------------------
+
 \begin{frame}{Images of Single Ion at Different Exposure Times}
 
+\begin{itemize}
+\item Each Pixel of 16 \textmu m x 16 \textmu m, magnification of imaging system: x10
+\bigskip
+\item diameter of ion image $\sim$ 7 pixels => diameter of ion fluorescence $\sim$ 11 \textmu m
+
+\end{itemize}
 
 
 \begin{figure}
@@ -303,22 +305,14 @@ Current Progress
 
 
 %------------------------------------------------
-\begin{frame}[noframenumbering]
 
-Future Plans
-
-
-
-\end{frame}
-
-
-%------------------------------------------------
-\begin{frame}{Future Plans}
-
+\section{Next Steps}
+\begin{frame}{Next Steps}
+\frametitle{}
 \begin{itemize}
 \item Investigate the minimum exposure required for a bright ion to be able to be distinguished from a dark ion
 \bigskip
-\item A bright ion can no longer be distinguished from a dark ion if the distibution of the dark ion and bright ion signal counts have a large overlap
+\item A bright ion can no longer be distinguished from a dark ion if the distibution of the brignt (B) and dark (D) ion signal counts have a large overlap
 
 \end{itemize}
 
@@ -339,7 +333,7 @@ Future Plans
 \bigskip
 \item Externally triggering the camera may interupt the keep clean cycle and produce a more noisy image
 \bigskip
-\item The camera gives of a 'fire signal' during exposure which can be used to trigger the start of the experiment at the end of a 'keep clean' cycle
+\item The camera gives of a 'fire signal' during exposure => can be used to trigger the start of the experiment at the end of a 'keep clean' cycle
 \end{itemize}
 
 
