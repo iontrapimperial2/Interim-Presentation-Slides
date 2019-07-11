@@ -63,7 +63,7 @@
 %------------------------------------------------
 
 \begin{frame}
-	\maketitle % Automatically created using the information in the commands above
+		\maketitle % Automatically created using the information in the commands above
 \begin{picture}(0,0) 
     % \put{} defines the position of the frame
     \put(240,240){\makebox(20,40)[bl]{
@@ -108,7 +108,7 @@ space, inside a vacuum chamber.
 \begin{frame}{EMCCD Cameras}
 
 \begin{itemize}
-\item Charged Coupled Devide (CCD): silicon based semiconductor chip, captures light, converts the photons to digital data in the form of electrons
+\item Charged Coupled Device (CCD): silicon based semiconductor chip, captures light, converts the photons to digital data in the form of electrons
 \bigskip
 \item Electron Multiplying CCD (EMCCD):  identical structure to conventional CCDs BUT more sensitive and capable of single photo detection (e.g. fluorescence of single ions)
 \bigskip
@@ -167,15 +167,13 @@ space, inside a vacuum chamber.
 
 \begin{itemize}
 \item Two separate programs: the EMCCD camera control program and the image loading program
+\bigskip
+\item A Dynamic Link Library (DLL) containing various functions of the camera used by the program to control the camera
+\bigskip
+\item Both programs are object oriented and have a graphical user interface (GUI) created using QT Creator software
+\bigskip
+\item UI file from QT Creator converted to Python script with PyQt5 module => no need to write GUI in Python from scratch!
 \end{itemize} 
-\vspace{0.3cm}
-\begin{figure}
-\begin{center}
-\includegraphics[scale=0.3]{Figures/cam_flow_chart.png}\\
-\vspace{0.3cm}
-\includegraphics[scale=0.3]{Figures/img_load_flow_chart.png}
-\end{center}
-\end{figure}
 
 
 \end{frame}
@@ -183,13 +181,13 @@ space, inside a vacuum chamber.
 %------------------------------------------------
 \begin{frame}{The Program (cont.)}
 
-\begin{itemize}
-\item A Dynamic Link Library (DLL) containing various functions of the camera used by the program to control the camera
-\bigskip
-\item Both programs are object oriented and have a graphical user interface (GUI) created using QT Creator software
-\bigskip
-\item UI file from QT Creator converted to python script with PyQt5 module => no need to write GUI in Python from scratch!
-\end{itemize}
+\begin{figure}
+\begin{center}
+\subfigure[Camera control program architechture]{\label{fig:a}\includegraphics[scale=0.3]{Figures/cam_flow_chart.png}}
+\subfigure[Image loading program architechture]{\label{fig:b}\includegraphics[scale=0.3]{Figures/img_load_flow_chart.png}}
+\end{center}
+\end{figure}
+
 
 
 \end{frame}
@@ -301,7 +299,7 @@ space, inside a vacuum chamber.
 \begin{itemize}
 \item Investigate the minimum exposure required for a bright ion to be able to be distinguished from a dark ion
 \bigskip
-\item A bright ion can no longer be distinguished from a dark ion if the distibution of the brignt (B) and dark (D) ion signal counts have a large overlap
+\item A bright ion can no longer be distinguished from a dark ion if the distibution (P) of the brignt (B) and dark (D) ion signal counts have a large overlap
 
 \end{itemize}
 
@@ -316,23 +314,23 @@ space, inside a vacuum chamber.
 \begin{frame}{Future Plans (cont.)}
 
 \begin{itemize}
-\item Comparing the differences in quality for image taken when the camera is externally triggered by the experiment and when the came camera triggers the experiment and the start of exposure
+\item Comparing the differences in quality for image taken when the camera is externally triggered by the experiment and when the camera triggers the experiment and the start of exposure
 \bigskip
 \item The EMCCD has a 'keep clean' cycle which clears the sensor to ensure it is charge free before the next exposure.
 \bigskip
-\item Externally triggering the camera may interupt the keep clean cycle and produce a more noisy image
+\item Externally triggering the camera may interrupt the 'keep clean' cycle and produce a more noisy image
 \bigskip
-\item The camera gives of a 'fire signal' during exposure => can be used to trigger the start of the experiment at the end of a 'keep clean' cycle
+\item The camera gives off a 'fire signal' during exposure => can be used to trigger the start of the experiment at the end of a 'keep clean' cycle
 \end{itemize}
 
 
 \end{frame}
 
 %------------------------------------------------
-\begin{frame}{Conclusions}
+\begin{frame}{Conclusion}
 
 \begin{itemize}
-\item A python program with a GUI was created to acquire pictures of fluorescence of single ions and another program was created to view the images and show the vertical and horizontal projections
+\item A Python program with a GUI was created to acquire pictures of fluorescence of single ions and another program was created to view the images and show the vertical and horizontal projections
 \bigskip
 \item A reliable method/algorithm is required to distinguish bright ions from dark ions at short exposure time
 \bigskip

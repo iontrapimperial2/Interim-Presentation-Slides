@@ -1,17 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.10)  11 JUL 2019 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  11 JUL 2019 15:29
 entering extended mode
 **./Interim_presentation_slides.tex
 (Interim_presentation_slides.tex
 LaTeX2e <2018-12-01>
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamer.cl
-s"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamer.cls"
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-emodes.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
-x.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasem
+odes.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count80
 )
@@ -19,16 +17,16 @@ Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \beamer@tempcount=\count81
 \c@beamerpauses=\count82
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-edecode.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbased
+ecode.sty"
 \beamer@slideinframe=\count83
 \beamer@minimum=\count84
 )
 \beamer@commentbox=\box28
 \beamer@modecount=\count85
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
-.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 \headdp=\dimen102
@@ -74,27 +72,27 @@ Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 \beamer@sectionadjust=\count103
 \beamer@tocsectionnumber=\count104
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eoptions.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaseo
+ptions.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
-x.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
-x.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count105
@@ -110,74 +108,73 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen125
 \Gm@dimlist=\toks15
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.cfg"))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
 File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
-gfcore.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+core.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\
-pgfsys.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-frcs.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-common.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
+fsys.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
+cs.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common.tex"
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-common-lists.tex"))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-latex.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common-lists.tex"))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-latex.def"
 \pgfutil@abb=\box35
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfrcs.code.tex"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisi
-on.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+frcs.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
+.tex")
 Package: pgfrcs 2019/05/09 v3.1.3 (3.1.3)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys.code.tex"
 Package: pgfsys 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeys.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeysfiltered.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen130
@@ -201,36 +198,35 @@ pgfkeysfiltered.code.tex"
 \t@pgf@tokc=\toks22
 \pgf@sys@id@count=\count112
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgf.cfg"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgf.cfg"
 File: pgf.cfg 2019/05/09 v3.1.3 (3.1.3)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys-pdftex.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys-common-pdf.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2019/05/09 v3.1.3 (3.1.3)
 )))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsyssoftpath.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfsyssoftpath@smallbuffer@items=\count113
 \pgfsyssoftpath@bigbuffer@items=\count114
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsysprotocol.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2019/05/09 v3.1.3 (3.1.3)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
-or.cfg"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -244,18 +240,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcore.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcore.code.tex"
 Package: pgfcore 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thcalc.code.tex"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thutil.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thparser.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+calc.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+util.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+parser.code.tex"
 \pgfmath@dimen=\dimen140
 \pgfmath@count=\count115
 \pgfmath@box=\box36
@@ -263,32 +259,32 @@ thparser.code.tex"
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.code.tex"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.basic.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.trigonometric.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.random.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.comparison.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.base.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.round.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.misc.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.integerarithmetics.code.tex")))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfloat.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.random.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.base.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.round.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+float.code.tex"
 \c@pgfmathroundto@lastzeros=\count116
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfin
-t.code.tex")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepoints.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.
+code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@picminx=\dimen141
 \pgf@picmaxx=\dimen142
@@ -305,116 +301,116 @@ File: pgfcorepoints.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@zx=\dimen153
 \pgf@zy=\dimen154
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathconstruct.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@path@lastx=\dimen155
 \pgf@path@lasty=\dimen156
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathusage.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@shorten@end@additional=\dimen157
 \pgf@shorten@start@additional=\dimen158
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorescopes.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfpic=\box37
 \pgf@hbox=\box38
 \pgf@layerbox@main=\box39
 \pgf@picture@serial@count=\count117
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoregraphicstate.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgflinewidth=\dimen159
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoretransformations.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@pt@x=\dimen160
 \pgf@pt@y=\dimen161
 \pgf@pt@temp=\dimen162
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorequick.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorequick.code.tex"
 File: pgfcorequick.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreobjects.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathprocessing.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorearrows.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfarrowsep=\dimen163
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreshade.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@max=\dimen164
 \pgf@sys@shading@range@num=\count118
 \pgf@shadingcount=\count119
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreimage.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreexternal.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfexternal@startupbox=\box40
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorelayers.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoretransparency.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepatterns.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorerdf.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\xx
-color.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\xxco
+lor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count120
 \XC@countmixins=\count121
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbeg
-shi.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegsh
+i.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
-rerr.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
-ds.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperre
-f.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
-b-hyperref.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
-b-generic.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -448,28 +444,28 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook
-.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
-ns.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen165
 \Hy@linkcounter=\count122
 \Hy@pagecounter=\count123
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.
-def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count124
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperre
-f.cfg"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
@@ -483,8 +479,7 @@ Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count125
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+ ("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -510,30 +505,30 @@ Package hyperref Message: Stopped early.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex
-.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count128
 \c@bookmark@seq@number=\count129
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfi
-lecheck.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+check.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-erequires.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-ecompatibility.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-efont.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
-.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaser
+equires.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasec
+ompatibility.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasef
+ont.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
-s.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks26
 \symAMSa=\mathgroup4
@@ -541,42 +536,42 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\s
-ansmathaccent.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\san
+smathaccent.sty"
 Package: sansmathaccent 2013/03/28
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/filehook\filehoo
-k.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/filehook\filehook.
+sty"
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etranslator.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+ranslator.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor.sty"
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-emisc.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etwoscreens.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eoverlay.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasem
+isc.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+woscreens.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaseo
+verlay.sty"
 \beamer@argscount=\count130
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count131
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etitle.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-esection.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+itle.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbases
+ection.sty"
 \c@lecture=\count132
 \c@part=\count133
 \c@section=\count134
 \c@subsection=\count135
 \c@subsubsection=\count136
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eframe.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasef
+rame.sty"
 \beamer@framebox=\box41
 \beamer@frametitlebox=\box42
 \beamer@zoombox=\box43
@@ -592,38 +587,38 @@ eframe.sty"
 \framewidth=\dimen170
 \c@framenumber=\count140
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-everbatim.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasev
+erbatim.sty"
 \beamer@verbatimfileout=\write4
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eframesize.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasef
+ramesize.sty"
 \beamer@splitbox=\box44
 \beamer@autobreakcount=\count141
 \beamer@autobreaklastheight=\dimen171
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eframecomponents.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasef
+ramecomponents.sty"
 \beamer@footins=\box45
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-ecolor.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-enotes.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasec
+olor.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasen
+otes.sty"
 \beamer@frameboxcopy=\box46
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etoc.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etemplates.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+oc.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+emplates.sty"
 \beamer@sbttoks=\toks30
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eauxtemplates.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-eboxes.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasea
+uxtemplates.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaseb
+oxes.sty"
 \bmb@box=\box47
 \bmb@colorbox=\box48
 \bmb@boxshadow=\box49
@@ -636,10 +631,10 @@ eboxes.sty"
 )
 \beamer@blockheadheight=\dimen176
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-elocalstructure.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasel
+ocalstructure.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
@@ -648,36 +643,36 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-enavigation.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasen
+avigation.sty"
 \beamer@section@min@dim=\dimen177
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-etheorems.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+heorems.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
-ty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
 \ex@=\dimen178
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
-ty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen179
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
-ty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count144
@@ -718,8 +713,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks37
 \thm@bodyfont=\toks38
@@ -733,54 +727,52 @@ Package: amsthm 2017/10/31 v2.20.4
 )
 \c@theorem=\count156
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbas
-ethemes.sty"))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerthe
-medefault.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerfon
-tthemedefault.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamercol
-orthemedefault.sty")
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinn
-erthemedefault.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbaset
+hemes.sty"))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamertheme
+default.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerfontt
+hemedefault.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamercolor
+themedefault.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinner
+themedefault.sty"
 \beamer@dima=\dimen187
 \beamer@dimb=\dimen188
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerout
-erthemedefault.sty"))) (beamerthemeFocus.sty
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerouter
+themedefault.sty"))) (beamerthemeFocus.sty
 
 LaTeX Warning: You have requested package `beamerthemeFocus',
                but the package provides `beamerthemefocus'.
 
 Package: beamerthemefocus 2018/07/15 v2.0 Focus Beamer theme
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\FiraSans.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\FiraSans.sty"
 Package: FiraSans 2019/04/04 (Bob Tennent and autoinst) Style file for Fira San
 s fonts.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
-l.tex"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
-ls.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
 \XKV@toks=\toks43
 \XKV@tempa@toks=\toks44
 )
 \XKV@depth=\count157
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -794,12 +786,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -936,8 +928,8 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mweights\mweight
-s.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mweights\mweights.
+sty"
 Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
 font packages. 
 LaTeX Info: Redefining \bfseries on input line 22.
@@ -946,76 +938,73 @@ LaTeX Info: Redefining \rmfamily on input line 38.
 LaTeX Info: Redefining \sffamily on input line 66.
 LaTeX Info: Redefining \ttfamily on input line 94.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontaxes\fontaxe
-s.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontaxes\fontaxes.
+sty"
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\FiraMono.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\FiraMono.sty"
 Package: FiraMono 2019/06/04 (Bob Tennent and autoinst) Style file for Fira Mon
 o fonts.
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 )) (beamercolorthemefocus.sty) (beamerfontthemefocus.sty)
 (beamerinnerthemefocus.sty
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlaye
-r\tikz.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
-gf.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
+tikz.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+.sty"
 Package: pgf 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmoduleshapes.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfnodeparttextbox=\box54
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmoduleplot.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
-y\pgfcomp-version-0-65.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2019/05/09 v3.1.3 (3.1.3)
 \pgf@nodesepstart=\dimen189
 \pgf@nodesepend=\dimen190
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
-y\pgfcomp-version-1-18.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2019/05/09 v3.1.3 (3.1.3)
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-ffor.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-fkeys.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeys.code.tex"))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath
-.sty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex"))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgffor.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
+or.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
+eys.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
+ty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"))
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+ffor.code.tex"
 Package: pgffor 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex")
 \pgffor@iter=\dimen191
 \pgffor@skip=\dimen192
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz\tikz.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz\tikz.code.tex"
 Package: tikz 2019/05/09 v3.1.3 (3.1.3)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
-pgflibraryplothandlers.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgf@plot@mark@count=\count158
 \pgfplotmarksize=\dimen193
@@ -1035,8 +1024,8 @@ File: pgflibraryplothandlers.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \tikznumberofcurrentchild=\count161
 \tikz@fig@count=\count162
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmodulematrix.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+odulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2019/05/09 v3.1.3 (3.1.3)
 \pgfmatrixcurrentrow=\count163
 \pgfmatrixcurrentcolumn=\count164
@@ -1044,18 +1033,18 @@ File: pgfmodulematrix.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )
 \tikz@expandcount=\count166
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz/libraries\tikzlibrarytopaths.code.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2019/05/09 v3.1.3 (3.1.3)
 )))) (beamerouterthemefocus.sty
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendixnumberbe
-amer\appendixnumberbeamer.sty")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendixnumberbeam
+er\appendixnumberbeamer.sty")
 \focus@pbar@height=\skip57
 \focus@pbar@leftoffset=\skip58
 \focus@pbar@rightoffset=\skip59
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
-s.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
+sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen256
 \lightrulewidth=\dimen257
@@ -1075,8 +1064,8 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count170
 \@thisrulewidth=\dimen268
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfig
-ure.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip60
 \subfigcapskip=\skip61
@@ -1093,24 +1082,22 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 * Local config file subfigure.cfg used *
 ****************************************
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfig
-ure.cfg")
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.cfg")
 \subfig@top=\skip64
 \subfig@bottom=\skip65
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/animate\animate.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/animate\animate.st
+y"
 Package: animate 2019/04/09 PDF & SVG animations from files and inline graphics
 
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+ ("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft
-.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft.s
+ty"
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
-)
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+) ("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count175
 \calc@Bcount=\count176
@@ -1123,12 +1110,12 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count177
 \calc@Cskip=\skip68
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-ab
-spage.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-absp
+age.sty"
 Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-ba
-se.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-base
+.sty"
 Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
@@ -1137,14 +1124,14 @@ Package zref Info: New property: page on input line 761.
 \c@abspage=\count178
 Package zref Info: New property: abspage on input line 62.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/media9\pdfbase.s
-ty"
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
-ty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/media9\pdfbase.sty
+"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
 Package: expl3 2019-07-01 L3 programming layer (loader) 
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
-ode.tex"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-cod
+e.tex"
 Package: expl3 2019-07-01 L3 programming layer (code)
 \c_max_int=\count179
 \l_tmpa_int=\count180
@@ -1298,15 +1285,15 @@ Package: expl3 2019-07-01 L3 programming layer (code)
 \l__seq_internal_b_int=\count331
 \c__deprecation_minus_one=\count332
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
-end-pdfmode.def"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
 File: l3backend-pdfmode.def 2019-04-06 v L3 Experimental backend support: PDF m
 ode
 \l__kernel_color_stack_int=\count333
 \l__pdf_internal_box=\box77
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
-s2e\l3keys2e.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty"
 Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 )
 Package: pdfbase 2019/05/24 v0.32 driver independent access to low-level PDF fe
@@ -1314,8 +1301,7 @@ atures
 \g_pbs_page_int=\count334
 \g_pbs_oc_int=\count335
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ocgx2\ocgbase.st
-y"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ocgx2\ocgbase.sty"
 Package: ocgbase 2019/07/04 v0.16 support package for ocgx2.sty
 \g_ocgbase_nd_int=\count336
 )
@@ -1337,6 +1323,18 @@ Package: ocgbase 2019/07/04 v0.16 support package for ocgx2.sty
 \@anim@curfield=\count347
 \@anim@@resizeflags=\count348
 ) (Interim_presentation_slides.aux
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
 
 LaTeX Warning: Label `fig:a' multiply defined.
 
@@ -1380,15 +1378,15 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 61.
- ("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+ ("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Try loading font information for T1+FiraSans-OsF on input l
 ine 61.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\t1firasans-
-osf.fd"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\t1firasans-os
+f.fd"
 File: T1FiraSans-OsF.fd 2019/06/04 (autoinst) Font definitions for T1/FiraSans-
 OsF.
 )
@@ -1434,8 +1432,8 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count349
 \scratchdimen=\dimen307
@@ -1449,12 +1447,12 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
 \makeMPintoPDFobject=\count354
 \everyMPtoPDFconversion=\toks48
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
-f-base.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
-sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1467,12 +1465,12 @@ G,.JBIG2,.JB2,.eps]
 \AtBeginShipoutBox=\box81
 Package hyperref Info: Link coloring OFF on input line 61.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref
-.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\getti
-tlestring.sty"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count355
@@ -1541,28 +1539,28 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  T1/FiraMono-TOsF/m/n --> T1/FiraMono-TOsF/bx/n on input
  line 61.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-basic-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-bibliography-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-environment-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-months-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-numbers-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-theorem-dictionary-English.dict"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
+tor-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 \c@mv@tabular=\count356
@@ -1618,8 +1616,8 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
 (Font)              scaled to size 4.0pt on input line 73.
 [1
 
-{C:/Users/iontrap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures
-/iXon-Ultra-897.png> <./Figures/ion_trap_photo.png> <./Figures/IC_logo.png>]
+{C:/Users/yudiw/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/i
+Xon-Ultra-897.png> <./Figures/ion_trap_photo.png> <./Figures/IC_logo.png>]
 (Interim_presentation_slides.toc
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
 
@@ -1677,14 +1675,11 @@ Package pdftex.def Info: Figures/EMCCD_Structure.PNG  used on input line 140.
 (pdftex.def)             Requested size: 122.34692pt x 167.78616pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 140.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
-"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 140.
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
-"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.95> not avail
@@ -1705,10 +1700,9 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <6> not available
 put line 140.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
 (Font)              scaled to size 6.0pt on input line 140.
- [6
+[6
 
- <./Figures/EMCCD_Structure.PNG>] (Interim_presentation_slides.toc)
-[7
+ <./Figures/EMCCD_Structure.PNG>] (Interim_presentation_slides.toc) [7
 
 ]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <7> not available
@@ -1739,322 +1733,333 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <5> not available
 put line 160.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
 (Font)              scaled to size 5.0pt on input line 160.
- [8
+
+[8
 
 ] (Interim_presentation_slides.toc) [9
 
+] [10
+
 ]
-<Figures/cam_flow_chart.png, id=116, 789.1884pt x 280.8894pt>
+<Figures/cam_flow_chart.png, id=122, 789.1884pt x 280.8894pt>
 File: Figures/cam_flow_chart.png Graphic file (type png)
 <use Figures/cam_flow_chart.png>
-Package pdftex.def Info: Figures/cam_flow_chart.png  used on input line 181.
+Package pdftex.def Info: Figures/cam_flow_chart.png  used on input line 193.
 (pdftex.def)             Requested size: 236.75835pt x 84.26747pt.
-<Figures/img_load_flow_chart.png, id=117, 542.5068pt x 282.3348pt>
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 193.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9> not available
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on inp
+ut line 193.
+LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 193.
+<Figures/img_load_flow_chart.png, id=123, 542.5068pt x 282.3348pt>
 File: Figures/img_load_flow_chart.png Graphic file (type png)
 <use Figures/img_load_flow_chart.png>
-Package pdftex.def Info: Figures/img_load_flow_chart.png  used on input line 18
-1.
+Package pdftex.def Info: Figures/img_load_flow_chart.png  used on input line 19
+3.
 (pdftex.def)             Requested size: 162.7533pt x 84.70108pt.
 
-Overfull \vbox (2.12196pt too high) detected at line 181
+Overfull \vbox (0.55533pt too high) detected at line 193
  []
 
-[10
-
- <./Figures/cam_flow_chart.png> <./Figures/img_load_flow_chart.png>]
 [11
 
-]
-<Figures/cam_program.PNG, id=132, 632.3625pt x 676.02562pt>
+ <./Figures/cam_flow_chart.png> <./Figures/img_load_flow_chart.png>]
+<Figures/cam_program.PNG, id=134, 632.3625pt x 676.02562pt>
 File: Figures/cam_program.PNG Graphic file (type png)
 <use Figures/cam_program.PNG>
-Package pdftex.def Info: Figures/cam_program.PNG  used on input line 206.
+Package pdftex.def Info: Figures/cam_program.PNG  used on input line 204.
 (pdftex.def)             Requested size: 202.36014pt x 216.33261pt.
 
-Overfull \vbox (0.87639pt too high) detected at line 206
+Overfull \vbox (0.87639pt too high) detected at line 204
  []
 
 [12
 
  <./Figures/cam_program.PNG>]
-<Figures/pic_load/pl_frame_01.png, id=140, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_01.png, id=142, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_01.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_01.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_01.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_01.png> <a0,fr0>
-<Figures/pic_load/pl_frame_02.png, id=151, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_02.png, id=153, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_02.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_02.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_02.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_02.png> <a0,fr1>
-<Figures/pic_load/pl_frame_03.png, id=162, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_03.png, id=164, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_03.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_03.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_03.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_03.png> <a0,fr2>
-<Figures/pic_load/pl_frame_04.png, id=173, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_04.png, id=175, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_04.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_04.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_04.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_04.png> <a0,fr3>
-<Figures/pic_load/pl_frame_05.png, id=184, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_05.png, id=186, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_05.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_05.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_05.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_05.png> <a0,fr4>
-<Figures/pic_load/pl_frame_06.png, id=195, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_06.png, id=197, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_06.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_06.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_06.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_06.png> <a0,fr5>
-<Figures/pic_load/pl_frame_07.png, id=206, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_07.png, id=208, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_07.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_07.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_07.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_07.png> <a0,fr6>
-<Figures/pic_load/pl_frame_08.png, id=217, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_08.png, id=219, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_08.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_08.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_08.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_08.png>
 <a0,fr7>
-<Figures/pic_load/pl_frame_09.png, id=228, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_09.png, id=230, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_09.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_09.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_09.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_09.png> <a0,fr8>
-<Figures/pic_load/pl_frame_10.png, id=239, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_10.png, id=241, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_10.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_10.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_10.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_10.png> <a0,fr9>
-<Figures/pic_load/pl_frame_11.png, id=250, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_11.png, id=252, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_11.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_11.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_11.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_11.png> <a0,fr10>
-<Figures/pic_load/pl_frame_12.png, id=261, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_12.png, id=263, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_12.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_12.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_12.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_12.png> <a0,fr11>
-<Figures/pic_load/pl_frame_13.png, id=272, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_13.png, id=274, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_13.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_13.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_13.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_13.png>
 <a0,fr12>
-<Figures/pic_load/pl_frame_14.png, id=283, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_14.png, id=285, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_14.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_14.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_14.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_14.png> <a0,fr13> <a0,fr14>
-<Figures/pic_load/pl_frame_16.png, id=299, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_16.png, id=301, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_16.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_16.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_16.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_16.png> <a0,fr15>
-<Figures/pic_load/pl_frame_17.png, id=310, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_17.png, id=312, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_17.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_17.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_17.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_17.png>
 <a0,fr16>
-<Figures/pic_load/pl_frame_18.png, id=321, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_18.png, id=323, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_18.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_18.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_18.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_18.png> <a0,fr17>
-<Figures/pic_load/pl_frame_19.png, id=332, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_19.png, id=334, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_19.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_19.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_19.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_19.png> <a0,fr18>
-<Figures/pic_load/pl_frame_20.png, id=343, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_20.png, id=345, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_20.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_20.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_20.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_20.png> <a0,fr19>
-<Figures/pic_load/pl_frame_21.png, id=354, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_21.png, id=356, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_21.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_21.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_21.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_21.png> <a0,fr20>
-<Figures/pic_load/pl_frame_22.png, id=365, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_22.png, id=367, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_22.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_22.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_22.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_22.png>
 <a0,fr21>
-<Figures/pic_load/pl_frame_23.png, id=376, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_23.png, id=378, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_23.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_23.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_23.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_23.png> <a0,fr22>
-<Figures/pic_load/pl_frame_24.png, id=387, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_24.png, id=389, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_24.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_24.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_24.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_24.png> <a0,fr23>
-<Figures/pic_load/pl_frame_25.png, id=398, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_25.png, id=400, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_25.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_25.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_25.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_25.png> <a0,fr24>
-<Figures/pic_load/pl_frame_26.png, id=409, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_26.png, id=411, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_26.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_26.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_26.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_26.png> <a0,fr25>
-<Figures/pic_load/pl_frame_27.png, id=420, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_27.png, id=422, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_27.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_27.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_27.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_27.png>
 <a0,fr26>
-<Figures/pic_load/pl_frame_28.png, id=431, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_28.png, id=433, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_28.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_28.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_28.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_28.png> <a0,fr27>
-<Figures/pic_load/pl_frame_29.png, id=442, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_29.png, id=444, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_29.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_29.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_29.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_29.png> <a0,fr28>
-<Figures/pic_load/pl_frame_30.png, id=453, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_30.png, id=455, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_30.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_30.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_30.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_30.png> <a0,fr29>
-<Figures/pic_load/pl_frame_31.png, id=464, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_31.png, id=466, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_31.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_31.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_31.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_31.png> <a0,fr30>
-<Figures/pic_load/pl_frame_32.png, id=475, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_32.png, id=477, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_32.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_32.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_32.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_32.png>
 <a0,fr31>
-<Figures/pic_load/pl_frame_33.png, id=486, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_33.png, id=488, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_33.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_33.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_33.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_33.png> <a0,fr32>
-<Figures/pic_load/pl_frame_34.png, id=497, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_34.png, id=499, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_34.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_34.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_34.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_34.png> <a0,fr33>
-<Figures/pic_load/pl_frame_35.png, id=508, 1028.34187pt x 578.16pt>
+<Figures/pic_load/pl_frame_35.png, id=510, 1028.34187pt x 578.16pt>
 File: Figures/pic_load/pl_frame_35.png Graphic file (type png)
 <use Figures/pic_load/pl_frame_35.png>
 Package pdftex.def Info: Figures/pic_load/pl_frame_35.png  used on input line 2
-16.
+14.
 (pdftex.def)             Requested size: 1028.33937pt x 578.15858pt.
  <./Figures/pic_load/pl_frame_35.png> <a0,fr34>
 <a0,fr35> [13
 
 ] [14
 
-]
-<Figures/Noise_Python.png, id=541, 595.68pt x 408.8pt>
+]pdfTeX warning (ext4): destination with the same identifier (name{fig:a}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 \end{frame}
+                 
+<Figures/Noise_Python.png, id=543, 595.68pt x 408.07pt>
 File: Figures/Noise_Python.png Graphic file (type png)
 <use Figures/Noise_Python.png>
-Package pdftex.def Info: Figures/Noise_Python.png  used on input line 247.
-(pdftex.def)             Requested size: 142.96611pt x 98.114pt.
-<Figures/Noise_Commercial.png, id=542, 595.68pt x 408.8pt>
+Package pdftex.def Info: Figures/Noise_Python.png  used on input line 245.
+(pdftex.def)             Requested size: 142.96611pt x 97.9388pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:b}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.245 \end{frame}
+                 
+<Figures/Noise_Commercial.png, id=544, 595.68pt x 408.8pt>
 File: Figures/Noise_Commercial.png Graphic file (type png)
 <use Figures/Noise_Commercial.png>
-Package pdftex.def Info: Figures/Noise_Commercial.png  used on input line 247.
+Package pdftex.def Info: Figures/Noise_Commercial.png  used on input line 245.
 (pdftex.def)             Requested size: 142.96611pt x 98.114pt.
-<Figures/Gain_Python.png, id=543, 596.41pt x 408.07pt>
+<Figures/Gain_Python.png, id=545, 596.41pt x 408.07pt>
 File: Figures/Gain_Python.png Graphic file (type png)
 <use Figures/Gain_Python.png>
-Package pdftex.def Info: Figures/Gain_Python.png  used on input line 247.
+Package pdftex.def Info: Figures/Gain_Python.png  used on input line 245.
 (pdftex.def)             Requested size: 143.14131pt x 97.9388pt.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 247.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <9> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on inp
-ut line 247.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 247.
-<Figures/Gain_Commercial.png, id=544, 595.68pt x 408.8pt>
+<Figures/Gain_Commercial.png, id=546, 595.68pt x 408.8pt>
 File: Figures/Gain_Commercial.png Graphic file (type png)
 <use Figures/Gain_Commercial.png>
-Package pdftex.def Info: Figures/Gain_Commercial.png  used on input line 247.
+Package pdftex.def Info: Figures/Gain_Commercial.png  used on input line 245.
 (pdftex.def)             Requested size: 142.96611pt x 98.114pt.
 
-Overfull \vbox (12.29327pt too high) detected at line 247
+Overfull \vbox (12.11807pt too high) detected at line 245
  []
 
 [15
@@ -2062,47 +2067,47 @@ Overfull \vbox (12.29327pt too high) detected at line 247
  <./Figures/Noise_Python.png> <./Figures/Noise_Commercial.png> <./Figures/Gain_
 Python.png> <./Figures/Gain_Commercial.png>]
 LaTeX Font Info:    Try loading font information for TS1+FiraSans-OsF on input 
-line 272.
+line 270.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\ts1firasans
--osf.fd"
+("C:\Users\yudiw\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fira\ts1firasans-o
+sf.fd"
 File: TS1FiraSans-OsF.fd 2019/06/04 (autoinst) Font definitions for TS1/FiraSan
 s-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 272.
+(Font)              scaled to size 10.95pt on input line 270.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:a}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \end{frame}
+l.270 \end{frame}
                  
 <Figures/5_sec_exposure.png, id=559, 348.55219pt x 349.305pt>
 File: Figures/5_sec_exposure.png Graphic file (type png)
 <use Figures/5_sec_exposure.png>
-Package pdftex.def Info: Figures/5_sec_exposure.png  used on input line 272.
+Package pdftex.def Info: Figures/5_sec_exposure.png  used on input line 270.
 (pdftex.def)             Requested size: 102.42992pt x 102.64966pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:b}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \end{frame}
+l.270 \end{frame}
                  
 <Figures/2_sec_exposure.png, id=560, 349.305pt x 349.305pt>
 File: Figures/2_sec_exposure.png Graphic file (type png)
 <use Figures/2_sec_exposure.png>
-Package pdftex.def Info: Figures/2_sec_exposure.png  used on input line 272.
+Package pdftex.def Info: Figures/2_sec_exposure.png  used on input line 270.
 (pdftex.def)             Requested size: 102.42992pt x 102.43112pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:c}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \end{frame}
+l.270 \end{frame}
                  
 <Figures/1_sec_exposure.png, id=561, 349.305pt x 349.305pt>
 File: Figures/1_sec_exposure.png Graphic file (type png)
 <use Figures/1_sec_exposure.png>
-Package pdftex.def Info: Figures/1_sec_exposure.png  used on input line 272.
+Package pdftex.def Info: Figures/1_sec_exposure.png  used on input line 270.
 (pdftex.def)             Requested size: 102.42992pt x 102.43112pt.
  [16
 
@@ -2111,22 +2116,22 @@ _exposure.png>]pdfTeX warning (ext4): destination with the same identifier (nam
 e{fig:d}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.292 \end{frame}
+l.290 \end{frame}
                  
 <Figures/700ms_exposure.png, id=573, 349.305pt x 349.305pt>
 File: Figures/700ms_exposure.png Graphic file (type png)
 <use Figures/700ms_exposure.png>
-Package pdftex.def Info: Figures/700ms_exposure.png  used on input line 292.
+Package pdftex.def Info: Figures/700ms_exposure.png  used on input line 290.
 (pdftex.def)             Requested size: 102.42992pt x 102.43112pt.
 <Figures/400ms_exposure.png, id=574, 349.305pt x 349.305pt>
 File: Figures/400ms_exposure.png Graphic file (type png)
 <use Figures/400ms_exposure.png>
-Package pdftex.def Info: Figures/400ms_exposure.png  used on input line 292.
+Package pdftex.def Info: Figures/400ms_exposure.png  used on input line 290.
 (pdftex.def)             Requested size: 102.42992pt x 102.43112pt.
 <Figures/100ms_exposure.png, id=575, 349.305pt x 349.305pt>
 File: Figures/100ms_exposure.png Graphic file (type png)
 <use Figures/100ms_exposure.png>
-Package pdftex.def Info: Figures/100ms_exposure.png  used on input line 292.
+Package pdftex.def Info: Figures/100ms_exposure.png  used on input line 290.
 (pdftex.def)             Requested size: 102.42992pt x 102.43112pt.
  [17
 
@@ -2137,7 +2142,7 @@ _exposure.png>] (Interim_presentation_slides.toc) [18
 <Figures/B_D_graph.png, id=596, 633.86812pt x 423.08063pt>
 File: Figures/B_D_graph.png Graphic file (type png)
 <use Figures/B_D_graph.png>
-Package pdftex.def Info: Figures/B_D_graph.png  used on input line 313.
+Package pdftex.def Info: Figures/B_D_graph.png  used on input line 311.
 (pdftex.def)             Requested size: 190.1619pt x 126.92516pt.
 
 [19
@@ -2158,11 +2163,11 @@ Package pdftex.def Info: Figures/B_D_graph.png  used on input line 313.
 \tf@snm=\write8
 \openout8 = `Interim_presentation_slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 360.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 360.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
  (Interim_presentation_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 360.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 360.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
 Package rerunfilecheck Info: File `Interim_presentation_slides.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: 926EC75D33D698EB69AF422A717EB8A6;204.
@@ -2172,22 +2177,22 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  33256 strings out of 492895
- 662857 string characters out of 3122801
+ 662833 string characters out of 3123735
  691118 words of memory out of 3000000
  36481 multiletter control sequences out of 15000+200000
  838620 words of font info for 85 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,16n,77p,796b,902s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/iontrap/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fira/fir_
-d67aat.enc}{C:/Users/iontrap/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/
-fira/fir_iln36p.enc}{C:/Users/iontrap/AppData/Local/Programs/MiKTeX 2.9/fonts/e
-nc/dvips/fira/fir_2mfh3o.enc}<C:/Users/iontrap/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/iontrap/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/iontrap
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Users/iontrap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/s
-ymbols/msam10.pfb>
-Output written on Interim_presentation_slides.pdf (22 pages, 28780056 bytes).
+{C:/Users/yudiw/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fira/fir_d6
+7aat.enc}{C:/Users/yudiw/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fira
+/fir_iln36p.enc}{C:/Users/yudiw/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
+ps/fira/fir_2mfh3o.enc}<C:/Users/yudiw/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/fira/FiraSans-Bold.pfb><C:/Users/yudiw/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/yudiw/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/yudi
+w/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.
+pfb>
+Output written on Interim_presentation_slides.pdf (22 pages, 28781431 bytes).
 PDF statistics:
  658 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
