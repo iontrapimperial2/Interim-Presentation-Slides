@@ -72,15 +72,6 @@
   \end{picture}%
 \end{frame}
 
-%----------------------------------------------------------------------------------------
-%	 SECTION 1
-%----------------------------------------------------------------------------------------
-
-%\section{Section 1} % Section title slide, unnumbered
-
-%------------------------------------------------
-
-
 
 %------------------------------------------------
 \begin{frame}
@@ -107,14 +98,17 @@ space, inside a vacuum chamber.
 \bigskip
 \item Typically lasers used to manipulate the ions and an imaging system to detect the ion's fluorescence
 \end{itemize}
-
+\vspace{0.3cm}
+\centering
+\includegraphics[height=3.4 cm]{Figures/Paul_trap_schematics.png}
+\includegraphics[height=3.4 cm]{Figures/ion_trap_photo.png}
 \end{frame}
 
 %------------------------------------------------
 \begin{frame}{EMCCD Cameras}
 
 \begin{itemize}
-\item A Charged Coupled Devide (CCD): silicon based semiconductor chip, captures light, converts the photons to digital data in the form of electrons
+\item Charged Coupled Devide (CCD): silicon based semiconductor chip, captures light, converts the photons to digital data in the form of electrons
 \bigskip
 \item Electron Multiplying CCD (EMCCD):  identical structure to conventional CCDs BUT more sensitive and capable of single photo detection (e.g. fluorescence of single ions)
 \bigskip
@@ -136,7 +130,7 @@ space, inside a vacuum chamber.
              \includegraphics[width=4.3 cm]{Figures/EMCCD_Structure.PNG}
            \column{0.62\linewidth}
               \begin{itemize}
-\item Shift register are extended with Gain register => significantly improves low light detection
+\item Shift register extended with Gain register => significantly improves low light detection
 \bigskip
 \item Possible to read out only a part of the detector array
 \end{itemize}
@@ -152,13 +146,14 @@ space, inside a vacuum chamber.
 \begin{frame}{My Tasks}
 \frametitle{}
 \begin{itemize}
-\item Write a Python 3 program around existing library to interface out Andor iXon Ultra EMCCD camera
-\bigskip
-\item Commercial software fine for general imaging, written Python program taylored to experimental requirements
+\item Write a Python 3 program around existing library to interface our Andor iXon Ultra EMCCD camera
+	\begin{itemize}
+	\item Commercial software fine for general imaging, but Python program can be taylored to experimental requirements
+	\end{itemize}
 \bigskip
 \item Find a method of distinguishing between a bright and a dark ion
 \bigskip
-\item Find optimal parameter setting to obtain best image in shortest exposure time
+\item Find optimal parameter settings to obtain best image in shortest exposure time
 \end{itemize}
 
 
@@ -171,7 +166,7 @@ space, inside a vacuum chamber.
 \frametitle{}
 
 \begin{itemize}
-\item Two separate programs: one to control the EMCCD camera and take pictures of ion(s) and the other to load the images 
+\item Two separate programs: the EMCCD camera control program and the image loading program
 \end{itemize} 
 \vspace{0.3cm}
 \begin{figure}
@@ -204,7 +199,7 @@ space, inside a vacuum chamber.
 
 \begin{figure}
 \centering
-\includegraphics[scale=0.4]{Figures/cam_program.PNG}
+\includegraphics[scale=0.32]{Figures/cam_program.PNG}
 \end{figure}
 
 
@@ -215,7 +210,7 @@ space, inside a vacuum chamber.
 
 
 \begin{center}
-	\animategraphics[width=\textwidth,autoplay,loop]{3}{Figures/pic_load/pl_frame_}{01}{36}
+	\animategraphics[width=\textwidth,autoplay,loop]{2.5}{Figures/pic_load/pl_frame_}{01}{36}
 \end{center}
 
 \end{frame}
@@ -258,7 +253,7 @@ space, inside a vacuum chamber.
 \begin{itemize}
 \item Each Pixel of 16 \textmu m x 16 \textmu m, magnification of imaging system: x10
 \bigskip
-\item diameter of ion image $\sim$ 7 pixels => diameter of ion fluorescence $\sim$ 11 \textmu m
+\item diameter of ion image $\sim$ 6 pixels => diameter of ion fluorescence $\sim$ 9.6 \textmu m
 
 \end{itemize}
 
