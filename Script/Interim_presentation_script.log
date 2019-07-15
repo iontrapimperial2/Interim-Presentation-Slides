@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.10)  12 JUL 2019 10:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.15)  15 JUL 2019 16:16
 entering extended mode
 **./Interim_presentation_script.tex
 (Interim_presentation_script.tex
 LaTeX2e <2018-12-01>
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
-"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -21,53 +20,48 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
-y"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2019/06/03 3.32 The Babel package
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
-ef"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
 File: switch.def 2019/06/03 3.32 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
-g"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\en
-glish.ldf"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
-f"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2019/06/03 3.32 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
-.def")
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f")
 \bbl@dirlevel=\count89
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
-y"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
- ("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
+
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+))
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-global.d
-ef"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-global.def"
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count90
@@ -75,26 +69,26 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.sty"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
-.sty"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
-x.sty"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.s
+ty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
-x.sty"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
+ty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count91
@@ -110,24 +104,24 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks20
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.cfg")) (Interim_presentation_script.aux)
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg")) (Interim_presentation_script.aux)
 \openout1 = `Interim_presentation_script.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
-("C:\Users\iontrap\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
+("C:\Users\Yudi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 *geometry* driver: auto-detecting
@@ -165,28 +159,25 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 13.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
-
-LaTeX Warning: No \author given.
-
+(Font)              <7> on input line 14.
 [1
 
-{C:/Users/iontrap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2] [3] (Interim_presentation_script.aux) ) 
+{C:/Users/Yudi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+[3] (Interim_presentation_script.aux) ) 
 Here is how much of TeX's memory you used:
  1551 strings out of 492895
- 24061 string characters out of 3122801
+ 24080 string characters out of 3124202
  112462 words of memory out of 3000000
  5492 multiletter control sequences out of 15000+200000
  5150 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,702b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/iontrap/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/iontrap/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Interim_presentation_script.pdf (3 pages, 39683 bytes).
+ 23i,6n,23p,702b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Yudi/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Yudi/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Interim_presentation_script.pdf (3 pages, 39776 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
