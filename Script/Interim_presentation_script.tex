@@ -7,7 +7,8 @@
 
 
 \title{MSc Summer Project Interim Presentation Script}
-
+\author{Yudi Wu}
+\date{16/07/2019}
 \begin{document}
 
 \maketitle
@@ -26,9 +27,9 @@
 
 \item My tasks. My main objectives for the summer project are to write a program in Python 3 around an existing library which can interface our Andor iXon Ultra EMCCD camera. The camera also comes with a commercial software which is fine for general imaging. However, the Python program can be written such that it is tailored to the experimental requirements. Once the Python program is complete, I will use it to acquire images of ions and find a method to distinguish between a bright and dark ion. Finally, I will try to find the optimal parameter settings in order to obtain the best image with the shortest exposure time.
 
-\item The program. I have written two separate programs: One to control the EMCCD camera and take pictures, and the other to load the images acquired by the camera.  The program controls the camera by loading a dynamic link library which contains all the functions of the camera. To make the programs user-friendly, both programs are object oriented and have a graphical user interface created using the QT Creator software. The UI file from QT Creator was then converted into Python script with the PyQt5 module, hence there is no need to write the GUI in Python from scratch and once created, the GUI code can be left untouched.
+\item The program. I have written two separate programs: One to control the EMCCD camera and take pictures, and the other to load the images acquired by the camera.  The program controls the camera by loading a dynamic link library which contains all the functions of the camera. To make the programs user-friendly, both programs are object oriented and have its own graphical user interface created using the QT Creator software. The UI file from QT Creator was then converted into Python script with the PyQt5 module, hence there is no need to write the GUI in Python from scratch and once created, the GUI code can be left untouched.
 
-\item The diagrams here shows the overall architecture of the two programs. The main code of the camera control program imports the code for the library and graphical user interface to form the complete program which can control and communicate with the EMCCD camera. like the camera control program, the code for the image loading program also imports its corresponding  GUI code.When you run main program, images taken by the camera in the form of a .txt file can be loaded and displayed on the GUI.
+\item The diagrams here shows the overall architecture of the two programs. The main code of the camera control program imports the code for the library and graphical user interface to form the complete program which can control and communicate with the EMCCD camera. Like the camera control program, the code for the image loading program also imports its corresponding  GUI code.When you run main program, images taken by the camera in the form of a .txt file can be loaded and displayed on the GUI.
 
 \item This image shows the program I wrote for controlling the EMCCD camera. Other than the basic controls to turn the camera on and off, the program can also set the temperature of the camera cooler and choose acquisition mode between a single image with single scan or multiple images with kinetic scan. The program can also set the exposure time, the EMMCD gain and the region of the detector array being read out. Other controls include the triggering mode of the camera and controls of the camera shutter. Once all the required camera parameters has been set, the snap button can be pressed to acquire the image and saved using browse and save buttons.
 
